@@ -1,9 +1,9 @@
 # me-in-markdown
 
-Hello Mr. Aiello, **My name is Prathik Kunderu**, *I am a freshman this 2026-2027 school year* and I think that this year will be great! My goal for this year is to be able to learn the basics of coding and get an A.
+Hello Mr. Aiello, ***My name is Prathik Kunderu, I am a freshman this 2026-2027 school year*** and I think that this year will be great! My goal for this year is to be able to learn the basics of coding and get an A.
 
 
-When I was in 1st grade, I went to <u>Capistrano elementary school</u> and as soon as I reached 2nd grade, I moved to Welby Way Elementary School until I graduated. After elementary school, I went to Hale Charter Academy for middle school and my favorite subject was history. My favorite books are the Harry Potter series and they are also my favorite movies. I have watched the movies about 4 times! I also just recently learned how to use Github and how to navigate to my classes during the school day! 1 personal achievement that I had recently was being able to go to the United States Pacific West Chess Open and do decently well for my first time. 2 fun facts about myself is that I love playing chess and basketball.
+When I was in 1st grade, I went to <ins>Capistrano elementary school</ins> and as soon as I reached 2nd grade, I moved to Welby Way Elementary School until I graduated. After elementary school, I went to Hale Charter Academy for middle school and my favorite subject was history. My favorite books are the Harry Potter series and they are also my favorite movies. I have watched the movies about 4 times! I also just recently learned how to use Github and how to navigate to my classes during the school day! 1 personal achievement that I had recently was being able to go to the United States Pacific West Chess Open and do decently well for my first time. 2 fun facts about myself is that I love playing chess and basketball.
 
 
 
