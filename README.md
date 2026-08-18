@@ -20,6 +20,6 @@ These are the songs that I have been listening to for all of 2026!
 
 These are some things that I love
 
-These pictures represent some things that I really enjoy! 
+(https://docs.google.com/presentation/d/1llvbBLjkssdkYuB3-p8TQ9UHKMGDhLxthKrQyfJGJKg/edit?slide=id.p#slide=id.p)
 
 
