@@ -16,7 +16,7 @@ Music has honestly not been something that has always come to my mind. However, 
 
 These are the songs that I have been listening to for all of 2026!
 
-These songs are all very calming and slow and that is why I love them! 
+(https://open.spotify.com/playlist/0cdC0qMwECf42j3S2F2iLj?si=OXgZeQEuRO6qHTQRXT19Eg&utm_source=native-share-menu&pi=Oxs9C69OQym1A)
 
 These are some things that I love
 
