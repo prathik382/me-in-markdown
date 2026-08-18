@@ -30,6 +30,6 @@ Music has honestly not been something that has always come to my mind. However, 
 | 2 | Pizza |  ⭐️⭐️⭐️⭐️ | Pizza is definetly one of my most favorite food |
 | 3 | Drawing | ⭐️⭐️⭐️⭐️ | I love drawing in my free time since it is so calming |
 | 4 | Childish Gambino |  ⭐️⭐️⭐️⭐️ | I really like listening to Childish Gambino songs since they are all so good. |
-| 5 | Basketball  ⭐️⭐️⭐️⭐️⭐️ | Basketball is my most favorite sport and I have been playing since 4th grade. |
+| 5 | Basketball | ⭐️⭐️⭐️⭐️⭐️ | Basketball is my most favorite sport and I have been playing since 4th grade. |
 
 
