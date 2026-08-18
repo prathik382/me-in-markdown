@@ -1,9 +1,9 @@
 # me-in-markdown
 
-Hello Mr. Aiello, ***My name is Prathik Kunderu, I am a freshman this 2026-2027 school year*** and I think that this year will be great! My goal for this year is to be able to learn the basics of coding and get an A.
+Hello Mr. Aiello, ***My name is Prathik Kunderu, I am a freshman this 2026-2027 school year*** and I think that this year will be great! My goal for this year is to be able to learn the basics of coding and get an A.🧑‍💻
 
 
-When I was in 1st grade, I went to <ins>Capistrano elementary school</ins> and as soon as I reached 2nd grade, I moved to Welby Way Elementary School until I graduated. After elementary school, I went to Hale Charter Academy for middle school and my favorite subject was history. My favorite books are the Harry Potter series and they are also my favorite movies. I have watched the movies about 4 times! I also just recently learned how to use Github and how to navigate to my classes during the school day! 1 personal achievement that I had recently was being able to go to the United States Pacific West Chess Open and do decently well for my first time. 2 fun facts about myself is that I love playing chess and basketball.
+When I was in 1st grade, I went to <ins>**Capistrano elementary school**</ins> and as soon as I reached 2nd grade, I moved to <ins>**Welby Way Elementary School**</ins> until I graduated. After elementary school, I went to <ins>**Hale Charter Academy**</ins> for middle school and my favorite subject was history. My favorite books are the ***Harry Potter*** series and they are also my favorite movies. I have watched the movies about 4 times! I also just recently learned how to use Github and how to navigate to my classes during the school day! 1 personal achievement that I had recently was being able to go to the United States Pacific West Chess Open and do decently well for my first time. 2 fun facts about myself is that I love playing chess and basketball.😃🏀
 
 
 
@@ -11,14 +11,14 @@ I have set some ambitious goals for myself this year and my greatest one is to g
 
 
 
-My favorite songs of 2026
-Music has honestly not been something that has always come to my mind. However, I have just recently discovered a music taste that I love and I would love to share it with you! I love listening to calm slow songs and sometimes listening to rap songs. I listen to songs while working, playing basketball, chess, and drawing. 
+## My favorite songs of 2026
+Music has honestly not been something that has always come to my mind. However, I have just recently discovered a music taste that I love and I would love to share it with you!😃 I love listening to calm slow songs and sometimes listening to rap songs. I listen to songs while working, playing basketball, chess♟️, and drawing. 
 
-These are the songs that I have been listening to for all of 2026!
+## These are the songs that I have been listening to for all of 2026!👍👍👍
 
 (https://open.spotify.com/playlist/0cdC0qMwECf42j3S2F2iLj?si=OXgZeQEuRO6qHTQRXT19Eg&utm_source=native-share-menu&pi=Oxs9C69OQym1A)
 
-These are some things that I love
+## These are some things that I love
 
 (https://docs.google.com/presentation/d/1llvbBLjkssdkYuB3-p8TQ9UHKMGDhLxthKrQyfJGJKg/edit?slide=id.p#slide=id.p)
 
