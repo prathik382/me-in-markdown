@@ -22,8 +22,10 @@ Music has honestly not been something that has always come to my mind. However, 
 
 (https://docs.google.com/presentation/d/1llvbBLjkssdkYuB3-p8TQ9UHKMGDhLxthKrQyfJGJKg/edit?slide=id.p#slide=id.p)
 
-| | Things I love | Rating (⭐️⭐️⭐️⭐️⭐️) | Add-ons |
-| - | - | - | - | - |
+
+
+| Things I love | Rating (⭐️⭐️⭐️⭐️⭐️) | Add-ons |
+| ------------- | -------------------- | ------- | 
 | 1 | New York | ⭐️⭐️⭐️⭐️ | I went this summer and the food, the buildings and everything was amazing. |
 | 2 | Pizza |  ⭐️⭐️⭐️⭐️ | Pizza is definetly one of my most favorite food |
 | 3 | Drawing | ⭐️⭐️⭐️⭐️ | I love drawing in my free time since it is so calming |
